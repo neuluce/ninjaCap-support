@@ -1,6 +1,6 @@
 # ninjaCap Support
 
-This repository providesi nformation about the ninjaCap 3D-printed headcaps for fNIRS measurements, including instructions for providing probe designs and additional relevant information. If you have an issue or feature suggestion, [create a new issue](https://github.com/neuluce/ninjaCap-support/issues/new).
+This repository provides information about the ninjaCap 3D-printed headcaps for fNIRS measurements, including instructions for providing probe designs and additional relevant information. If you have an issue or feature suggestion, [create a new issue](https://github.com/neuluce/ninjaCap-support/issues/new).
 
 The 3D-printed headcaps are currently in a limited beta test, with probe holders for TechEn fibrers. 
 
@@ -22,7 +22,7 @@ To print a ninjaCap, you must provide NeuLuce with your probe configuration as a
 
 ## Scaling
 
-When sacling, AtlasViewer requires providing two measurements in addition to the head circumference. If you only know the head circumference, use the table below to find recommended parameters for the corresponding Iz to Nz and RPA to LPA measurements.
+When scaling, AtlasViewer requires providing two measurements in addition to the head circumference. If you only know the head circumference, use the table below to find recommended parameters for the corresponding Iz to Nz and RPA to LPA measurements.
 
 | Head Circumference (cm) | Iz to Nz (cm) | RPA to LPA (cm) |
 | ----------------------- | ------------- | --------------- |
