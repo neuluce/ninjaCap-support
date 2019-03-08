@@ -2,7 +2,7 @@
 
 This repository provides information about the ninjaCap 3D-printed headcaps for fNIRS measurements, including instructions for providing probe designs and additional relevant information. If you have an issue or feature suggestion, [create a new issue](https://github.com/neuluce/ninjaCap-support/issues/new).
 
-The 3D-printed headcaps are currently in a limited beta test, with probe holders for TechEn fibrers. 
+The 3D-printed headcaps are currently in a limited beta test, with probe holders for TechEn fibers. 
 
 ## Probe Configuration
 
