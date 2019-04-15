@@ -18,7 +18,7 @@ To print a ninjaCap, you must provide NeuLuce with your probe configuration as a
 
    ![AtlasViewer: Save Viewer State](https://github.com/neuluce/ninjaCap-support/raw/master/av-save.png)
 
-4. Send the generated "AtlasViewer.mat" file to NeuLuce for printing.
+4. Send both the original probe file ("your-probe-design.SD") and the generated "AtlasViewer.mat" file to NeuLuce for printing.
 
 ## Scaling
 
